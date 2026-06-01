@@ -15,7 +15,7 @@ Este projeto atende a todos os critérios estabelecidos para a Atividade Avaliat
 - [x] **Vídeo de Apresentação:** Pitch e demonstração do funcionamento (Link abaixo).
 - [x] **Hospedagem no GitHub:** Repositório com código-fonte organizado.
 
-🎥 **[CLIQUE AQUI PARA ASSISTIR AO VÍDEO DE APRESENTAÇÃO](INSERIR_SEU_LINK_DO_YOUTUBE_AQUI)**
+🎥 **[CLIQUE AQUI PARA ASSISTIR AO VÍDEO DE APRESENTAÇÃO]([INSERIR_SEU_LINK_DO_YOUTUBE_AQUI](https://youtu.be/TIbWtGHwb4A))**
 
 ---
 
